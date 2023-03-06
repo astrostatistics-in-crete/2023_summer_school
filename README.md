@@ -4,9 +4,7 @@ Notebooks from the teaching sessions and the workshops of the
 [2023 Summer School for Astrostatistics in Crete](
 https://astro.physics.uoc.gr/Conferences/Astrostatistics_School_Crete_2023)
 
-Our Slack Workspace:
-
-[comment]: # [2023 Summer School Slack Workspace](https://astrostatisti-vpx2288.slack.com)
+Our Slack Workspace: [2023 Summer School Slack Workspace](https://astrostatisti-vpx2288.slack.com)
 
 ## Getting Started
 
@@ -66,12 +64,10 @@ The notebooks have adopted publicly available material from several sources
 that are properly credited. All the references to published papers, data, and
 software tools are properly addressed within each notebook.
 
-## Acknowledgments
+## Acknowledging the school
 
 If the material you learned through this summer school directly and
 significantly contributed to your work, we invite you to include the
 following acknowledgement in your manuscript:
 
-```
-We wish to thank the "2023 Summer School for Astrostatistics in Crete" for providing training on the statistical methods adopted in this work.
-```
+> We wish to thank the "2023 Summer School for Astrostatistics in Crete" for providing training on the statistical methods adopted in this work.
