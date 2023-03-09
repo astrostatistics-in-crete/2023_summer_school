@@ -1,4 +1,4 @@
-# 2022 Summer School for Astrostatistics in Crete
+# 2023 Summer School for Astrostatistics in Crete
 
 Notebooks from the teaching sessions and the workshops of the
 [2023 Summer School for Astrostatistics in Crete](
