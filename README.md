@@ -68,4 +68,4 @@ If the material you learned through this summer school directly and
 significantly contributed to your work, we invite you to include the
 following acknowledgement in your manuscript:
 
-> We wish to thank the "2023 Summer School for Astrostatistics in Crete" for providing training on the statistical methods adopted in this work.
+> We wish to thank the "Summer School for Astrostatistics in Crete" for providing training on the statistical methods adopted in this work.
