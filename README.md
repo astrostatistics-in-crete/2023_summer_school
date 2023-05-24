@@ -47,7 +47,7 @@ dependencies we suggest to install the package (see "Installing above").
 
 * **Andrews, Jeff** - Northwestern University (USA)
 
-* **Bonfini, Paolo** - Ballista Technologies
+* **Bonfini, Paolo** - Alma Sistemi (Italy)
 
 * **Kovlakas, Kostantinos** - Institute of Space Sciences (Spain)
 
