@@ -9,7 +9,7 @@ Our Slack Workspace: [2023 Summer School Slack Workspace](https://astrostatisti-
 
 The school material is a collection of Jupyter notebooks, organized in one
 folder per subject. The data are also provided in the repository. You can view
-and use the material by either
+and use the material by either:
 * Installing the package (see "Installing" below)
 * Manually downloading the material and use it (see "Downloading without installation" below)
 
