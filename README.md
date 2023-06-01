@@ -45,7 +45,7 @@ dependencies we suggest to install the package (see "Installing above").
 
 ## Authors
 
-* **Andrews, Jeff** - Northwestern University (USA)
+* **Andrews, Jeff** - University of Florida (USA)
 
 * **Bonfini, Paolo** - Alma Sistemi (Italy)
 
