@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Files
+template_notebook.ipynb
+test_images.ipynb
