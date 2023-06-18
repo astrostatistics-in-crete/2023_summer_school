@@ -1,0 +1,132 @@
+J/ApJ/808/11    RR Lyrae stars in M4. II. Spitzer/IRAC phot.    (Neeley+, 2015)
+================================================================================
+On the distance of the globular cluster M4 (NGC 6121) using RR Lyrae stars.
+II. Mid-infrared period-luminosity relations.
+    Neeley J.R., Marengo M., Bono G., Braga V.F., Dall'Ora M., Stetson P.B.,
+    Buonanno R., Ferraro I., Freedman W.L., Iannicola G., Madore B.F.,
+    Matsunaga N., Monson A., Persson S.E., Scowcroft V., Seibert M.
+   <Astrophys. J., 808, 11 (2015)>
+   =2015ApJ...808...11N    (SIMBAD/NED BibCode)
+================================================================================
+ADC_Keywords: Stars, variable ; Photometry, infrared ; Clusters, globular
+Keywords: globular clusters: individual: M4; stars: distances;
+          stars: horizontal-branch; stars: variables: RR Lyrae
+
+Abstract:
+    New mid-infrared (MIR) period-luminosity (PL) relations are presented
+    for RR Lyrae variables in the globular cluster M4 (NGC 6121). Accurate
+    photometry was obtained for 37 RR Lyrae variables using observations
+    from the Infrared Array Camera on board the Spitzer Space Telescope.
+    The dispersion of M4's PL relations is 0.056, and the uncertainty in
+    the slope is 0.11mag. Additionally, we established calibrated PL
+    relations at 3.6 and 4.5{mu}m using published Hubble Space Telescope
+    geometric parallaxes of five Galactic RR Lyrae stars. The resulting
+    band-averaged distance modulus for M4 is
+    {mu}=11.399+/-0.007(stat)+/-0.080(syst)+/-0.015(cal)+/-0.020(ext). The
+    systematic uncertainty will be greatly reduced when parallaxes of more
+    stars become available from the GAIA mission. Optical and infrared
+    period-color (PC) relations are also presented, and the lack of an MIR
+    PC relation suggests that RR Lyrae stars are not affected by CO
+    absorption in the 4.5{mu}m band.
+
+Description:
+    The results of our ground-based optical and NIR monitoring of the
+    stellar population in M4 have been published in Stetson et al. (2014,
+    J/PASP/126/521) and Braga et al. (2015ApJ...799..165B). In this paper,
+    we extend our wavelength coverage to the MIR, by including multi-epoch
+    3.6 and 4.5um photometry of a large portion of the cluster.
+
+    Our IRAC observations of M4 were executed on 2013 June 2-3 as part of
+    the warm Spitzer Space Telescope Cycle 9 (PID 90088). The cluster was
+    observed at IRAC 3.6 and 4.5um bands at 12 equally spaced epochs over
+    ~14hr.
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName      Lrecl  Records   Explanations
+--------------------------------------------------------------------------------
+ReadMe            80        .   This file
+table1.dat        57      444   Photometry for RR Lyrae in M4
+table2.dat       105       37   Mean IRAC magnitudes and amplitudes for
+                                 the RR Lyrae stars in M4
+--------------------------------------------------------------------------------
+
+See also:
+ VII/202 : Globular Clusters in the Milky Way (Harris, 1997)
+ J/A+A/573/A70    : UBVI photometry in 3 globular clusters (Nardiello+, 2015)
+ J/A+A/563/A80    : Wide field imagers astrometry. V. (Libralato+, 2014)
+ J/PASP/126/521   : UBVRIJHK photometry of RR Lyrae in M4 (Stetson+, 2014)
+ J/MNRAS/442/2381 : Variable stars in M4 primary field (Nascimbeni+, 2014)
+ J/MNRAS/440/L96  : RR Lyrae AllWise photometry (Klein+, 2014)
+ J/MNRAS/435/3206 : Properties of field RR Lyrae variables (Dambis+, 2013)
+ J/AJ/145/43      : CASE. V. Three eclipsing binaries in M4 (Kaluzny+, 2013)
+ J/AcA/62/357     : Proper motions in 6 globular clusters (Zloczewski+, 2012)
+ J/ApJ/759/146    : Spitzer/IRAC phot. for 37 Galactic Cepheids (Monson+, 2012)
+ J/ApJ/743/76     : Spitzer photometry of LMC Cepheids (Scowcroft+, 2011)
+ J/AJ/142/187     : HST obs. of 7 Pop. II variable stars (Benedict+, 2011)
+ J/A+A/527/A146   : CoRoT 0105288363 light curves (Chadid+, 2011)
+ J/PASP/121/1378  : Positions of variable stars in GCs (Samus+, 2009)
+ J/AJ/128/2239    : JHKs photometry of 92 LMC Cepheids (Persson+, 2004)
+ J/AcA/53/93      : OGLE RR Lyrae in LMC (Soszynski+, 2003)
+ J/ApJS/120/265   : HST photometry of M4 (Ibata+, 1999)
+ J/AJ/114/189     : M 4 CCD photometry (Alcaino+, 1997)
+ J/PAZh/22/847    : Identification and coordinates in M4 (Shokin+, 1996)
+
+Byte-by-byte Description of file: table1.dat
+--------------------------------------------------------------------------------
+  Bytes Format Units Label  Explanations
+--------------------------------------------------------------------------------
+  1-  3 A3     ---   ID     RR Lyrae name
+  6- 14 F9.3   d     MJD3.6 ? Modified Julian Date of 3.6 micron observation
+ 17- 22 F6.3   mag   3.6mag [10.4/11.6]? Spitzer/IRAC 3.6 micron band magnitude
+ 26- 30 F5.3   mag e_3.6mag [0.003/0.2]? The 1{sigma} error in 3.6mag
+ 33- 41 F9.3   d     MJD4.5 ? Modified Julian Date of 4.5 micron observation
+ 44- 49 F6.3   mag   4.5mag [10.3/11.6]? Spitzer/IRAC 4.5 micron band magnitude
+ 53- 57 F5.3   mag e_4.5mag [0.003/0.2]? The 1{sigma} error in 4.5mag
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: table2.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label     Explanations
+--------------------------------------------------------------------------------
+   1-  3  A3    ---     ID        RR Lyrae name (1)
+   5-  6  I2    h       RAh       Hour of right ascension (J2000)
+   8-  9  I2    min     RAm       Minute of right ascension (J2000)
+  11- 15  F5.2  s       RAs       Second of right ascension (J2000)
+      17  A1    ---     DE-       Sign of declination (J2000)
+  18- 19  I2    deg     DEd       Degree of declination (J2000)
+  21- 22  I2    arcmin  DEm       Arcminute of declination (J2000)
+  24- 27  F4.1  arcsec  DEs       Arcsecond of declination (J2000)
+  29- 38  F10.8 d       Per       [0.2/0.9] Period
+  40- 49  F10.7 [d]     logP      [-0.7/-0.06] log(P) value
+  51- 56  F6.3  mag     [3.6]     [10.4/11.5]? 3.6um band magnitude
+  58- 62  F5.3  mag   e_[3.6]     [0.007/0.04]? [3.6] uncertainty
+      64  A1    ---   f_[3.6]     [c] Flag on [3.6] (2)
+  66- 71  F6.3  mag     [4.5]     [10.4/11.5]? 4.5um band magnitude
+  73- 77  F5.3  mag   e_[4.5]     [0.006/0.04]? [4.5] uncertainty
+      79  A1    ---   f_[4.5]     [c] Flag on [4.5] (2)
+  81- 84  F4.2  mag     3.6amp    [0.04/0.4]? 3.6um amplitude
+  86- 89  F4.2  mag   e_3.6amp    [0.01/0.06]? 3.6amp uncertainty
+  91- 94  F4.2  mag     4.5amp    [0.04/0.4]? 4.5um amplitude
+  96- 99  F4.2  mag   e_4.5amp    [0.01/0.06]? 4.5amp uncertainty
+ 101-104  A4    ---     Mode      RR Lyrae mode ("RRc" or "RRab") (3)
+     105  A1    ---   f_Mode      [*] *: candidate Blazhko stars
+--------------------------------------------------------------------------------
+Note (1): Name as given in Clement's catalog (<Cl* NGC 6121 SAW VNN> in Simbad),
+          with the exception of C1, newly named in Stetson et al.
+          (2014, J/PASP/126/521; <[SBD2014] CN> in Simbad).
+Note (2):
+  c = The uncertainty is derived using the repeatability parameter given
+      in DAOPHOT.
+Note (3): The pulsation mode (RRab = FU (fundamental mode), RRc = FO (first
+          overtone pulsator)).
+--------------------------------------------------------------------------------
+
+History:
+    From electronic version of the journal
+
+References:
+    Braga et al.   Paper I.  2015ApJ...799..165B
+
+================================================================================
+(End)                  Prepared by [AAS], Emmanuelle Perret [CDS]    12-Nov-2015
